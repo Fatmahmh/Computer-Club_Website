@@ -1,7 +1,7 @@
 #### This Project is for the Internet Technologies course as a part of my bachelor's degree courses at Taif University. 
 
 * Projects Idea :
-  * Website to organize the membership registration and the events scheduling for college the computer club.
+  * Website to organize the membership registration and the events scheduling for the college computer club.
 
 * Project Requirements: 
   * Apply the knowledge and skills you have learned in the course to build a website that contains multiple pages with diffrents elements and linked it with a database. 
