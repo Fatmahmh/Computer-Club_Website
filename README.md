@@ -16,3 +16,6 @@
 ##### Computer club website user interfaces :
 
 ![Home Page](https://drive.google.com/file/d/1lEOZv53UVC5h9Bj6yBHRu6teJ1CoV2J9/view?usp=sharing)
+![Apply for Membership Page](https://drive.google.com/file/d/1lEOZv53UVC5h9Bj6yBHRu6teJ1CoV2J9/view?usp=sharing)
+![Past Events](https://drive.google.com/file/d/1lEOZv53UVC5h9Bj6yBHRu6teJ1CoV2J9/view?usp=sharing)
+![Schedule Page](https://drive.google.com/file/d/1lEOZv53UVC5h9Bj6yBHRu6teJ1CoV2J9/view?usp=sharing)
