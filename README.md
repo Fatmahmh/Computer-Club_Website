@@ -2,7 +2,8 @@
 
 * Projects Idea :
   * Website to organize the membership registration and the events scheduling for the college computer club.
-
+  * The website consist of 4 pages, which are : Home page , Apply for Membership Page, Past Events Page and Schedule Page
+  
 * Project Requirements: 
   * Apply the knowledge and skills you have learned in the course to build a website that contains multiple pages with diffrents elements and linked it with a database. 
 
